@@ -34,7 +34,8 @@
         "linux",
         "macos",
         "darwin",
-        "win"
+        "win",
+        "win32"
     ],
     "cpu": [
         "x86",
